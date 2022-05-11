@@ -1,0 +1,205 @@
+h2{
+    color: white;
+
+}
+.chd{
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+}
+h4{
+    color: white;
+}
+.title{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    position: absolute;
+}
+.pres{
+    margin-top: 0px;
+    width: 250px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.pres1{
+    margin-top: 0px;
+        width: 250px;
+        margin-left: 70px;
+        margin-bottom: 10px;
+}
+.pres2{
+    margin-top: 0px;
+        width: 250px;
+        margin-left: 70px;
+        margin-bottom: 10px;
+}
+.pres3{
+    margin-top: 0px;
+        width: 250px;
+        margin-left: 100px;
+        margin-bottom: 10px;
+}
+.no{
+    margin-top: 100px;
+}
+.san{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.sans{
+    color: white;
+        font-size: 16px;
+        font-weight: bold;
+    
+}
+.c{
+    width: 400px;
+height: 145px;
+    border: 10px;
+    border-radius: 10px;
+    margin-left: 80px;
+
+}
+.co{
+    width: 400px;
+height: 145px;
+    border: 10px;
+    border-radius: 10px;
+    margin-top: -144px;
+    margin-left: 508px;
+}
+.con{
+    width: 400px;
+    height: 145px;
+        border: 10px;
+        border-radius: 10px;
+        margin-left: 80px;
+        margin-top: -144px;
+        margin-left: 938px;
+}
+.cons{
+    width: 400px;
+height: 145px;
+    border: 10px;
+    border-radius: 10px;
+    margin-left: 80px;
+    margin-top: 20px;
+
+}
+.const{
+    width: 400px;
+    height: 145px;
+        border: 10px;
+        border-radius: 10px;
+        margin-top: -144px;
+        margin-left: 508px;
+}
+.consta{
+    width: 400px;
+height: 145px;
+    border: 10px;
+    border-radius: 10px;
+    margin-left: 80px;
+    margin-top: -120px;
+    margin-left: 938px;
+}
+.constan{
+    width: 400px;
+    height: 145px;
+        border: 10px;
+        border-radius: 10px;
+        margin-left: 80px;
+        margin-top: -144px;
+        margin-left: 938px;
+}
+.constant{
+    width: 400px;
+        height: 145px;
+        border: 10px;
+        border-radius: 10px;
+        margin-left: 250px;
+        margin-top: 20px;
+}
+.constanta{
+    width: 535px;
+        height: 145px;
+        border: 10px;
+        border-radius: 10px;
+        margin-top: -145px;
+        margin-left: 680px;
+}
+.presbox{
+    margin-top: -40px;
+    margin-left: 160px;
+}
+.presbox1 {
+    margin-top: -40px;
+    margin-left: 180px;
+}
+.presbox2{
+    margin-top: -40px;
+    margin-left: 220px;
+}
+.presbox3{
+    margin-top: -40px;
+        margin-left: 200px;
+}
+.presbox4{
+    margin-top: -40px;
+        margin-left: 210px;
+}
+.presbox5{
+    margin-top: -65px;
+        margin-left: 180px;
+}
+.presbox6{
+    margin-top: -40px;
+        margin-left: 300px;
+}
+.presbox7{
+    margin-top: -15px;
+        margin-left: 170px;
+}
+.presb{
+    margin-top: -5px;
+    margin-left: 30px;
+}
+.titles1{
+    margin-left: 110px;
+    
+}
+.titles2{
+    margin-left: 90px;
+}
+.titles3{
+    margin-left: 60px;
+}
+.title4{
+    margin-left: 10px;
+}
+.subbut{
+    margin-left: 650px;
+    margin-top: 100px;
+    height: 50px;
+    width: 500px;
+}
+.sb{
+    width: 200px;
+    margin-left: -20px;
+}
+.but{
+    margin-left: 1200px;
+    margin-top: 30px;
+    position: absolute;
+}
+.nam{
+  color: white;
+ margin-top: 35px;
+ margin-left: 990px;
+    position: absolute;
+
+}
